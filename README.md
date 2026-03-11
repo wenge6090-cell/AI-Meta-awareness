@@ -1,4 +1,4 @@
-# VingoBot 增强版认知架构
+# VingoBot 认知架构
 
 <div align="center">
 
